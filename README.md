@@ -18,9 +18,9 @@
 <div align="center">
     <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
     <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
-    <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />
-    <img src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" />
-    <img src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" />
-    <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="git" height="50" />
-    <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />
+    <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="45" />
+    <img src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="45" />
+    <img src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="45" />
+    <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="git" height="45" />
+    <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="45" />
 </div>
