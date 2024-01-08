@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Kevin</h1>
-<p align="left"> <a href="https://twitter.com/k3bn_" target="blank"><img src="https://img.shields.io/twitter/follow/k3bn_?logo=twitter&style=for-the-badge" alt="k3bn_" /></a> </p>
 
 - 🌱 I’m currently learning **frameworks, courses...**
 
